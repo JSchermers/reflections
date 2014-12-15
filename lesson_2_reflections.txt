@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git folder is added to the folder in order to be a git repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+You can work with files that don't need to be added to the project (yet) in the working directory. They are not added to version control. So you can test things out. Once you got it working you can add them to the staging environment and make it ready for version control. A sort of trial and error . They are part of the repository.
